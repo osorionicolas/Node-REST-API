@@ -1,0 +1,4 @@
+let usuario = {
+ nombre:'',
+ apellido: ''
+};

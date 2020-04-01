@@ -1,0 +1,22 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osorionicolas/Node-REST-API.git"
+  },
+  "author": "Nicolás Osorio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osorionicolas/Node-REST-API/issues"
+  },
+  "homepage": "https://github.com/osorionicolas/Node-REST-API#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
